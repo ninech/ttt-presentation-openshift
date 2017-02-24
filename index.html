@@ -24,54 +24,14 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <!-- START - Introduction -->
-        <section data-markdown>
-          <script type="text/markdown">
-## Unsere Erfahrungen mit Openshift
-Sebastian Nickel & Philippe Hässig
-          </script>
-        </section>
-
-        <section data-markdown>
-          <script type="text/markdown">
-## Was ist Openshift?
-> OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
-          </script>
-        </section>
-
-        <section data-markdown>
-          <script type="text/markdown">
-## Was ist Openshift?
-* Platform zur Administration von Containern auf Kubernetes.
-* Auto-Scaling
-* Integriertes CI / CD
-* Origin -> Opensource
-* Container Platform -> Enterprise
-          </script>
-        </section>
-        <!-- END - Introduction -->
+        <section data-markdown="slides/introduction.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:"></section>
 
         <!-- START - Nick's Part about the infrastructure -->
-        <section>Slide 1</section>
+        <section data-markdown="slides/infrastructure.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:"></section>
         <!-- END - Nick's Part about the infrastructure -->
 
-        <!-- START - Phil's part about the processes -->
-        <section data-markdown>
-          <script type="text/markdown">
-## Konzepte
-* BuildConfigs -> Builds
-* DeploymentConfigs -> Deployments
-          </script>
-        </section>
-
-        <section data-markdown>
-          <script type="text/markdown">
-## Features für Entwickler
-
-* Source-to-image
-* Jenkins Pipelines
-          </script>
-        </section>
+        <!-- START - Phil's part about the concepts -->
+        <section data-markdown="slides/concepts.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:"></section>
         <!-- END - Phil's part about the processes -->
       </div>
     </div>
@@ -83,6 +43,7 @@ Sebastian Nickel & Philippe Hässig
       // More info https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
         history: true,
+        progress: true,
 
         // More info https://github.com/hakimel/reveal.js#dependencies
         dependencies: [
