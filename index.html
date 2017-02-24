@@ -7,7 +7,7 @@
     <title>reveal.js</title>
 
     <link rel="stylesheet" href="css/reveal.css">
-    <link rel="stylesheet" href="css/theme/black.css">
+    <link rel="stylesheet" href="css/theme/sky.css">
 
     <!-- Theme used for syntax highlighting of code -->
     <link rel="stylesheet" href="lib/css/zenburn.css">
@@ -24,8 +24,55 @@
   <body>
     <div class="reveal">
       <div class="slides">
+        <!-- START - Introduction -->
+        <section data-markdown>
+          <script type="text/markdown">
+## Unsere Erfahrungen mit Openshift
+Sebastian Nickel & Philippe Hässig
+          </script>
+        </section>
+
+        <section data-markdown>
+          <script type="text/markdown">
+## Was ist Openshift?
+> OpenShift is Red Hat's Platform-as-a-Service (PaaS) that allows developers to quickly develop, host, and scale applications in a cloud environment.
+          </script>
+        </section>
+
+        <section data-markdown>
+          <script type="text/markdown">
+## Was ist Openshift?
+* Platform zur Administration von Containern auf Kubernetes.
+* Auto-Scaling
+* Integriertes CI / CD
+* Origin -> Opensource
+* Container Platform -> Enterprise
+          </script>
+        </section>
+        <!-- END - Introduction -->
+
+        <!-- START - Nick's Part about the infrastructure -->
         <section>Slide 1</section>
-        <section>Slide 2</section>
+        <!-- END - Nick's Part about the infrastructure -->
+
+        <!-- START - Phil's part about the processes -->
+        <section data-markdown>
+          <script type="text/markdown">
+## Konzepte
+* BuildConfigs -> Builds
+* DeploymentConfigs -> Deployments
+          </script>
+        </section>
+
+        <section data-markdown>
+          <script type="text/markdown">
+## Features für Entwickler
+
+* Source-to-image
+* Jenkins Pipelines
+          </script>
+        </section>
+        <!-- END - Phil's part about the processes -->
       </div>
     </div>
 
