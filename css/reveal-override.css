@@ -1,0 +1,12 @@
+body:after {
+  content: "";
+  display: inline-block;
+  background-image: url(../images/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 10%;
+  height: 4%;
+  position: fixed;
+  bottom: 3.5em;
+  left: 3.5em;
+}
