@@ -1,5 +1,6 @@
-## Unsere Erfahrungen mit Openshift
-Sebastian Nickel & Philippe Hässig
+![openshift logo](images/openshift-logo.png)<!-- .element: class="front-image" -->
+
+Erfahrungen von Sebastian Nickel & Philippe Hässig
 
 
 
