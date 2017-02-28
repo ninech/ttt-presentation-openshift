@@ -7,11 +7,11 @@ Wichtig! Killer Feature! <!-- .element: class="fragment" style="list-style-type:
 
 
 ## Weitere Features
-* integriertes zentrales Logging System
-* integriertes zentrales Metriken System (autoscaling) <!-- .element: class="fragment" data-fragment-index="1" -->
-* sehr flexible Authentifizierung <!-- .element: class="fragment" data-fragment-index="2" -->
-* granulares Rollen/Rechte System <!-- .element: class="fragment" data-fragment-index="3" -->
-* multi-tenant fähig (auch Netzwerk) <!-- .element: class="fragment" data-fragment-index="4" -->
+* integriertes zentrales Logging System <!-- .element: style="margin-left:10%" -->
+* integriertes zentrales Metriken System (autoscaling) <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="1" -->
+* sehr flexible Authentifizierung <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="2" -->
+* granulares Rollen/Rechte System <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="3" -->
+* multi-tenant fähig (auch Netzwerk) <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="4" -->
 
 
 
