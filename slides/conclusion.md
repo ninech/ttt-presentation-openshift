@@ -1,10 +1,10 @@
 ## Conclusions
-* installieren via ansible ist sehr einfach
-* ansible vs. puppet Zuständigkeitsbereich
-* in der neuen Version existiert ceph RBD self-provisioning
-* autom. (ungewollte) upgrades von Origin
+* Installation via Ansible ist sehr einfach
+* Ansible vs. Puppet Zuständigkeitsbereich
+* in der neuen Version existiert Ceph RBD Self-Provisioning
+* autom. (ungewollte) Upgrades von Origin
 * Backup muss für einzelne Projekte ausgeführt werden
-* SeLinux!
+* SELinux!
 * insgesamt sehr vielversprechend
 
 

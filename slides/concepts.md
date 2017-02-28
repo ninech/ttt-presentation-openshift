@@ -42,6 +42,6 @@ oc start-build ruby-image --follow
 
 ### Features für Entwickler
 
-* Automatischer Build Workflow
+* Automatischer Build-Workflow
 * Source-to-Image
 * Jenkins Pipelines
