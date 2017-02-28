@@ -1,6 +1,9 @@
 ## Conclusions
 
-* [..Nick's conclusions..]
+* installieren via ansible ist sehr einfach
+* ansible vs. puppet Zuständigkeitsbereich
+* in der neuen Version existiert ceph RBD self-provisioning
+* autom. Upgrades von Origin
 
 * Extremly flexible
 * Many concepts to learn
