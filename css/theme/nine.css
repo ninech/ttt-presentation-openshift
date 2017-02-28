@@ -1,8 +1,7 @@
 /**
  * nine.ch theme for reveal.js.
  */
-@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 .reveal a {
   line-height: 1.3em; }
 
@@ -13,7 +12,7 @@ body {
   background: #3498db; }
 
 .reveal {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 40px;
   font-weight: normal;
   color: #fff; }
@@ -44,10 +43,9 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #fff;
-  font-family: "Quicksand", sans-serif;
-  font-weight: normal;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
   line-height: 1.2;
-  letter-spacing: -0.08em;
   text-transform: uppercase;
   text-shadow: none;
   word-wrap: break-word; }
