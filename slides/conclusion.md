@@ -10,9 +10,11 @@
 
 
 ## Conclusions
-* Extremly flexible
-* Many concepts to learn
-* "Dockerizing" correctly is hard
+* sehr flexible Deployments
+* All-in-one system (CI, CD)
+* Viele Konzepte zu lernen
+* richtiges "Dockerizing" ist nicht einfach!
+* DevOps!
 
 Note:
 Dockerizing easy, but often involves many changes to app.

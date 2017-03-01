@@ -9,9 +9,10 @@ Wichtig! Killer Feature! <!-- .element: class="fragment" style="list-style-type:
 ## Weitere Features
 * integriertes zentrales Logging System <!-- .element: style="margin-left:10%" -->
 * integriertes zentrales Metriken System (autoscaling) <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="1" -->
-* sehr flexible Authentifizierung <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="2" -->
-* granulares Rollen/Rechte System <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="3" -->
-* multi-tenant fähig (auch Netzwerk) <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="4" -->
+* CI mit Jenkins integriert <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="2" -->
+* sehr flexible Authentifizierung <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="3" -->
+* granulares Rollen/Rechte System <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="4" -->
+* multi-tenant fähig (auch Netzwerk) <!-- .element: style="margin-left:10%" class="fragment" data-fragment-index="5" -->
 
 
 
@@ -35,8 +36,8 @@ Wichtig! Killer Feature! <!-- .element: class="fragment" style="list-style-type:
 
 ## Unser POC Cluster
 * einfach aufgebaut
-* poor mans DNS loadbalancing <!-- .element: class="fragment" data-fragment-index="1" -->
+* poor man's DNS loadbalancing <!-- .element: class="fragment" data-fragment-index="1" -->
 * OpenShift Origin mit CentOS <!-- .element: class="fragment" data-fragment-index="2" -->
 * LVM als backend für docker <!-- .element: class="fragment" data-fragment-index="3" -->
 <li class="fragment" data-fragment-index="4">für lokalen Test gibts</li>
-<pre class="fragment" data-fragment-index="4"><code class="bash">$> oc cluster up</code></pre>
+<pre class="fragment" data-fragment-index="4"><code class="bash">$ oc cluster up</code></pre>

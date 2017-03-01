@@ -1,6 +1,8 @@
 ![openshift logo](images/openshift-logo.png)<!-- .element: class="front-image" -->
 
-Erfahrungen von Sebastian Nickel & Philippe Hässig
+Erfahrungen von
+
+Sebastian Nickel & Philippe Hässig
 
 
 
@@ -14,6 +16,5 @@ Erfahrungen von Sebastian Nickel & Philippe Hässig
 * von RedHat entwickelt
 * stark Entwickler bezogen
 * Auto-Scaling
-* Integriertes CI / CD
 * Origin -> Opensource
 * Container Platform -> Enterprise
