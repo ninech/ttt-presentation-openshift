@@ -36,8 +36,8 @@ Wichtig! Killer Feature! <!-- .element: class="fragment" style="list-style-type:
 
 ## Unser POC Cluster
 * einfach aufgebaut
-* poor man's DNS loadbalancing <!-- .element: class="fragment" data-fragment-index="1" -->
+* poor man's DNS Loadbalancing <!-- .element: class="fragment" data-fragment-index="1" -->
 * OpenShift Origin mit CentOS <!-- .element: class="fragment" data-fragment-index="2" -->
-* LVM als backend für docker <!-- .element: class="fragment" data-fragment-index="3" -->
-<li class="fragment" data-fragment-index="4">für lokalen Test gibts</li>
+* LVM als Backend für Docker <!-- .element: class="fragment" data-fragment-index="3" -->
+<li class="fragment" data-fragment-index="4">für lokalen Test gibt's</li>
 <pre class="fragment" data-fragment-index="4"><code class="bash">$ oc cluster up</code></pre>

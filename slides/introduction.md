@@ -12,7 +12,7 @@ Sebastian Nickel & Philippe Hässig
 
 
 ## Was ist Openshift?
-* Platform zur Administration von Containern auf Basis von Kubernetes
+* Plattform zur Administration von Containern auf Basis von Kubernetes
 * von RedHat entwickelt
 * stark Entwickler bezogen
 * Auto-Scaling
